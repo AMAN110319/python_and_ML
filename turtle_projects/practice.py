@@ -1,0 +1,12 @@
+import turtle
+pr = turtle.Turtle()
+pr.color('#03fcb1')
+pr.pensize(5)
+pr.forward(100)
+pr.left(45)
+pr.forward(100)
+pr.right(90)
+pr.forward(100)
+pr.left(45)
+pr.forward(100)
+turtle.done()
